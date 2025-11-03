@@ -31,6 +31,6 @@ You can learn more about my work and connect with me through the links below:
 -  <a href ="https://traceless0714.wixsite.com/my-site-1">Portfolio</a>
 -  <a href ="mailto:traceless0714@gmail.com">Email</a>
 
- **Thanks for visiting my bio!**  
+ ### Thanks for visiting my bio!  
 I’m always open to new ideas, collaborations, and tech discussions. Feel free to reach out or leave feedback!
 
