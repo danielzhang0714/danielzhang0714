@@ -19,8 +19,8 @@ Outside of coding, I’m also a competitive FPS player who loves optimizing perf
 
 ## My stats
 
-<img align="top left" height="150" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielzhang0714&layout=compact&theme=radical">
-<img align="top center" height="150" width=50% src="https://github-readme-stats.vercel.app/api?username=danielzhang0714&layout=compact&theme=radical">
+<img align="left" height="150" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielzhang0714&layout=compact&theme=radical">
+<img align="center" height="150" width=50% src="https://github-readme-stats.vercel.app/api?username=danielzhang0714&layout=compact&theme=radical">
 
 
 
