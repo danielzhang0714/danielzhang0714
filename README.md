@@ -16,8 +16,8 @@ Outside of coding, I’m also a competitive FPS player who loves optimizing perf
 
 
 ## My stats
-<a href="https://github-readme-stats.vercel.app/api?username=danielzhang0714">My GitHub Website stats</a>
-<a href="https://api.github.com/users/danielzhang0714/repos?per_page=100">Overall Stats</a>
+- <a href="https://github-readme-stats.vercel.app/api?username=danielzhang0714">My GitHub Website stats</a>
+- <a href="https://api.github.com/users/danielzhang0714/repos?per_page=100">Overall Stats</a>
 
 ## Fun Fact  
 When I’m not coding, you’ll probably find me training my aim in Valorant or CS2. I’ve always believed that debugging code and mastering flick shots share the same mindset — focus, patience, and rhythm. A cup of black coffee usually powers both my late-night commits and my perfect headshots.  
