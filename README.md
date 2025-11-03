@@ -1,4 +1,5 @@
-my image
+## My image
+<img src="./assets/selfie.jpg" alt="My photo" width="200">
 
 ## My introduction  
 Hi there 👋 I'm **Daniel Zhang**, a software development student at **MITT (Manitoba Institute of Trades and Technology)**.  
@@ -20,5 +21,6 @@ Outside of coding, I’m also a competitive FPS player who loves optimizing perf
 - 💬 Ask me about coding, gaming, or productivity tips! 
 
 social media links
+
 
 thanks for visiting my bio
