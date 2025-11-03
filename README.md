@@ -8,18 +8,18 @@ Outside of coding, I’m also a competitive FPS player who loves optimizing perf
 
 ## My Skills
 
-🧠 Languages: HTML, CSS, JavaScript (beginner level)
-⚙️ Tools: VS Code, Git, GitHub
-🎨 UI/UX (Interest): Responsive design and clean layouts
-🚀 Currently Learning: Front-end development fundamentals
-🎮 Personal Interests: Web projects, game analytics, and FPS gaming
+- 🧠 Languages: HTML, CSS, JavaScript (beginner level)
+- ⚙️ Tools: VS Code, Git, GitHub
+- 🎨 UI/UX (Interest): Responsive design and clean layouts
+- 🚀 Currently Learning: Front-end development fundamentals
+- 🎮 Personal Interests: Web projects, game analytics, and FPS gaming
 
 
 ## My status  
-🌱 Currently learning **full-stack web development**  
-🧠 Working on improving **JavaScript and database logic**  
-🎯 Goal: Build a personal gaming analytics dashboard website  
-💬 Ask me about coding, gaming, or productivity tips! 
+- 🌱 Currently learning **full-stack web development**  
+- 🧠 Working on improving **JavaScript and database logic**  
+- 🎯 Goal: Build a personal gaming analytics dashboard website  
+- 💬 Ask me about coding, gaming, or productivity tips! 
 
 ## Fun Fact  
 When I’m not coding, you’ll probably find me training my aim in Valorant or CS2. I’ve always believed that debugging code and mastering flick shots share the same mindset — focus, patience, and rhythm. A cup of black coffee usually powers both my late-night commits and my perfect headshots.  
