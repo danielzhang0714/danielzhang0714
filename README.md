@@ -1,5 +1,5 @@
 
-<img src=".assets/banner.png" alt="Banner" width="200">
+<img src="./assets/banner.png" alt="Banner" width="200">
 
 ## About Me  
 Hi there 👋 I'm **Daniel Zhang**, a software development student at **MITT (Manitoba Institute of Trades and Technology)**.  
