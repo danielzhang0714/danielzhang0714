@@ -20,7 +20,11 @@ Outside of coding, I’m also a competitive FPS player who loves optimizing perf
 - 🎯 Goal: Build a personal gaming analytics dashboard website  
 - 💬 Ask me about coding, gaming, or productivity tips! 
 
-social media links
+## ⚡ Fun Fact  
+When I’m not coding, you’ll probably find me training my aim in Valorant or CS2. I’ve always believed that debugging code and mastering flick shots share the same mindset — focus, patience, and rhythm. A cup of black coffee usually powers both my late-night commits and my perfect headshots.  
 
+
+social media links
+<a href ="https://www.linkedin.com/in/daniel-zhang-9b9aa7226/">Linkedin</a>
 
 thanks for visiting my bio
