@@ -1,6 +1,9 @@
 
 <img src="./assets/banner.png" alt="Banner" width="600">
 
+## Profile views count
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanielzhang0714&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+
 ## About Me  
 Hi there 👋 I'm **Daniel Zhang**, a software development student at **MITT (Manitoba Institute of Trades and Technology)**.  
 I’m passionate about building responsive web apps, designing clean UI layouts, and improving my problem-solving skills through real projects.  
@@ -16,8 +19,8 @@ Outside of coding, I’m also a competitive FPS player who loves optimizing perf
 
 
 ## My stats
-- <a href="https://github-readme-stats.vercel.app/api?username=danielzhang0714">My GitHub Website stats</a>
-- <a href="https://api.github.com/users/danielzhang0714/repos?per_page=100">Overall Stats</a>
+<img src="https://github-readme-stats.vercel.app/api?username=danielzhang0714">
+
 
 ## Fun Fact  
 When I’m not coding, you’ll probably find me training my aim in Valorant or CS2. I’ve always believed that debugging code and mastering flick shots share the same mindset — focus, patience, and rhythm. A cup of black coffee usually powers both my late-night commits and my perfect headshots.  
