@@ -1,7 +1,7 @@
-## My image
-<img src="./assets/selfie.jpg" alt="My photo" width="200">
 
-## My introduction  
+<img src=".assets/banner.png" alt="Banner" width="200">
+
+## About Me  
 Hi there 👋 I'm **Daniel Zhang**, a software development student at **MITT (Manitoba Institute of Trades and Technology)**.  
 I’m passionate about building responsive web apps, designing clean UI layouts, and improving my problem-solving skills through real projects.  
 Outside of coding, I’m also a competitive FPS player who loves optimizing performance both in-game and in code.
