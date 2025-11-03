@@ -2,7 +2,7 @@
 <img src="./assets/banner.png" alt="Banner" width="600">
 
 ## Profile views count
-![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanielzhang0714&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
+![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanielzhang0714&label=Profile+counts&icon=journal-bookmark-fill&color=%230d6efd&message=&style=plastic&tz=UTC)
 
 ## About Me  
 Hi there 👋 I'm **Daniel Zhang**, a software development student at **MITT (Manitoba Institute of Trades and Technology)**.  
@@ -19,7 +19,8 @@ Outside of coding, I’m also a competitive FPS player who loves optimizing perf
 
 
 ## My stats
-<img src="https://github-readme-stats.vercel.app/api?username=danielzhang0714">
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielzhang0714&layout=compact&theme=radical">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=danielzhang0714">
 
 
 ## Fun Fact  
