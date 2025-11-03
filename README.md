@@ -26,8 +26,9 @@ When I’m not coding, you’ll probably find me training my aim in Valorant or 
 
 ## Social Media Links
 You can learn more about my work and connect with me through the links below: 
-- 🔗 <a href ="https://www.linkedin.com/in/daniel-zhang-9b9aa7226/">Linkedin</a>
-- 💼 <a href ="https://traceless0714.wixsite.com/my-site-1">Portfolio</a>
+-  <a href ="https://www.linkedin.com/in/daniel-zhang-9b9aa7226/">Linkedin</a>
+-  <a href ="https://traceless0714.wixsite.com/my-site-1">Portfolio</a>
+-  <a href ="mailto:traceless0714@gmail.com">Email</a>
 
  **Thanks for visiting my bio!**  
 I’m always open to new ideas, collaborations, and tech discussions. Feel free to reach out or leave feedback!
