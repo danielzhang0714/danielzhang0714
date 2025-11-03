@@ -1,7 +1,6 @@
 
 <img src="./assets/banner.png" alt="Banner" width="600">
 
-## Profile views count
 ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fdanielzhang0714&label=Profile+counts&icon=journal-bookmark-fill&color=%230d6efd&message=&style=plastic&tz=UTC)
 
 ## About Me  
@@ -19,8 +18,10 @@ Outside of coding, I’m also a competitive FPS player who loves optimizing perf
 
 
 ## My stats
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielzhang0714&layout=compact&theme=radical">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=danielzhang0714">
+
+<img align="top left" height="150" width=45% src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielzhang0714&layout=compact&theme=radical">
+<img align="top center" height="150" width=50% src="https://github-readme-stats.vercel.app/api?username=danielzhang0714&layout=compact&theme=radical">
+
 
 
 ## Fun Fact  
