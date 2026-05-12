@@ -84,9 +84,15 @@ Before focusing on software development, I worked with tools such as **Blender**
 
 ---
 
-## Top Languages
+## Top Languages & Main Technologies
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielzhang0714&layout=compact&theme=radical">
+Based on my current projects and coursework, I mainly work with:
+
+- **C#** — ASP.NET Core MVC, Web API, OOP, design patterns
+- **SQL** — SQL Server, MySQL, database design, CRUD operations
+- **HTML / CSS / JavaScript** — responsive layouts and front-end development
+- **PHP** — web development projects and MITT in-house competition work
+- **Testing** — xUnit, Moq, unit testing, normal/boundary/edge test cases
 
 ---
 
